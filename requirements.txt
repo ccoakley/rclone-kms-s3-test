@@ -1,0 +1,9 @@
+# I only pip installed boto3 to exercise the bug, but this is the complete snapshot of my venv
+boto3==1.4.7
+botocore==1.7.43
+docutils==0.14
+jmespath==0.9.3
+pyspark==2.2.0
+python-dateutil==2.6.1
+s3transfer==0.1.11
+six==1.11.0
